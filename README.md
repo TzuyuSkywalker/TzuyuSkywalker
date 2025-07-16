@@ -30,14 +30,6 @@
 
 ---
 
-## 💌 Contact  
-*"Hit you with that ddu-du ddu-du"*  
-
-- ✉️ Discord: **TzuyuSkywalker**  
-- 🎤 *"You gon' like that!"*  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
