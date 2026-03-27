@@ -1,19 +1,12 @@
-# 👋 Hi! I'm Gabriel  
-*"BLACKPINK in your area!"* 💖🖤  
-
+# Student account
 ---
 
 ## 💎 About Me  
-*"How you like that?"*  
 
 - 🎓 Software Development Student  
-- ⚡ Fullstack Lover  
-- 🎧 BLACKPINK, TWICE and LE SSERAFIM Stan  
-- ✨ *"Likes it like that"* challenging projects  
+- ⚡ Fullstack 
 
 ---
-
-## 🎀 Tech Stack 
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 10px 0;">
 
@@ -29,10 +22,3 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TzuyuSkywalker&show_icons=true&theme=radical&title_color=FF69B4&text_color=FFFFFF&icon_color=FF1493&bg_color=000000" alt="stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzuyuSkywalker&layout=compact&theme=radical&title_color=FF69B4&text_color=FFFFFF&bg_color=000000" alt="languages" width="350"/>
-</p>
